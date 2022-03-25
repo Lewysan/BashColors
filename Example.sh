@@ -11,3 +11,5 @@ cyan='\033[0;36m'
 gray="\e[0;37m\033[1m"
 blue="\e[0;34m\033[1m"
 yellow="\e[0;33m\033[1m"
+
+echo -e "${gray} ${yellow}This a ${magenta}message, ${green}testing ${cyan}colors."
