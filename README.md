@@ -1,6 +1,6 @@
 ![zxccv](https://user-images.githubusercontent.com/70720366/160208697-1c598983-814b-49df-ace7-0979370988e8.PNG)
 
-# Colours
+# Colors
 - green="\e[0;32m\033[1m"
 - closecolor="\033[0m\e[0m"
 - clear='\033[0m'
