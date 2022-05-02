@@ -2,7 +2,7 @@
 
 # Colors
 green="\e[0;32m\033[1m"
-white='\033[0;37m' 
+white='\033[0;37m'
 black='\033[0;30m'
 clear='\033[0m'
 red="\e[0;31m\033[1m"
